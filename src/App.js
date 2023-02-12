@@ -1,8 +1,9 @@
 import './App.css';
+import NewsSandBox from './views/sandbox/NewsSandBox'
 function App() {
   return (
     <div className='App'>
-      66667777
+      <NewsSandBox></NewsSandBox>
     </div>
   );
 }
